@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+	font-family: arial;
+	color: blue;
+}
+
+body {
+	background-color: lightgreen;
+}
+
+table, th, td {
+  border: 1px solid purple;
+  text-align: center;
+  margin: 0 auto;
+}
+
+p {
+	text-align: center;
+}
